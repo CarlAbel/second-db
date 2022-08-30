@@ -5,7 +5,7 @@
       "productName": "Iphone 12",
       "brand": "Apple",
       "productCategory": ["phone", "electric", "wifi"],
-      "eanNumberNumber": "112",
+      "eanNumber": "112",
       "productDesc": "The newest version Iphone 13 from the manufactorer Apple.",
       "price": "455.00",
       "retailPrice": "895.00",
